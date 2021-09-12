@@ -229,6 +229,7 @@
             this.checkBox_d1 = new System.Windows.Forms.CheckBox();
             this.label29 = new System.Windows.Forms.Label();
             this.Secret = new System.Windows.Forms.CheckBox();
+            this.label34 = new System.Windows.Forms.Label();
             this.groupBox3.SuspendLayout();
             this.groupBox4.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
@@ -2583,11 +2584,22 @@
             this.Secret.UseVisualStyleBackColor = true;
             this.Secret.CheckedChanged += new System.EventHandler(this.Secret_CheckedChanged);
             // 
+            // label34
+            // 
+            this.label34.AutoSize = true;
+            this.label34.Font = new System.Drawing.Font("ＭＳ ゴシック", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.label34.Location = new System.Drawing.Point(829, 3);
+            this.label34.Name = "label34";
+            this.label34.Size = new System.Drawing.Size(125, 11);
+            this.label34.TabIndex = 90;
+            this.label34.Text = "C)Pangya Ntreev Soft";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(956, 694);
+            this.Controls.Add(this.label34);
             this.Controls.Add(this.Secret);
             this.Controls.Add(this.label29);
             this.Controls.Add(this.groupBox8);
@@ -2843,6 +2855,7 @@
         private System.Windows.Forms.Label label33;
         private System.Windows.Forms.Label label_zone;
         private System.Windows.Forms.PictureBox pictureBox_Zone;
+        private System.Windows.Forms.Label label34;
     }
 }
 

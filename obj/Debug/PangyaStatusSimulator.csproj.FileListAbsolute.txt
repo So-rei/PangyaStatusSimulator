@@ -47,3 +47,12 @@ C:\Users\So-rei4\Documents\Visual Studio 2012\Projects\PangyaStatusSimulator_100
 C:\Users\So-rei4\Documents\Visual Studio 2012\Projects\PangyaStatusSimulator_100\PangyaStatusSimulator\obj\Debug\PangyaStatusSimulator.Form1.resources
 C:\Users\So-rei4\Documents\Visual Studio 2012\Projects\PangyaStatusSimulator_100\PangyaStatusSimulator\obj\Debug\PangyaStatusSimulator.Properties.Resources.resources
 C:\Users\So-rei4\Documents\Visual Studio 2012\Projects\PangyaStatusSimulator_100\PangyaStatusSimulator\obj\Debug\PangyaStatusSimulator.csproj.GenerateResource.Cache
+D:\Programming\PangyaStatusSimulator\PangyaStatusSimulator\bin\Debug\PangyaStatusSimulator.exe.config
+D:\Programming\PangyaStatusSimulator\PangyaStatusSimulator\bin\Debug\PangyaStatusSimulator.exe
+D:\Programming\PangyaStatusSimulator\PangyaStatusSimulator\bin\Debug\PangyaStatusSimulator.pdb
+D:\Programming\PangyaStatusSimulator\PangyaStatusSimulator\obj\Debug\PangyaStatusSimulator.csprojAssemblyReference.cache
+D:\Programming\PangyaStatusSimulator\PangyaStatusSimulator\obj\Debug\PangyaStatusSimulator.Form1.resources
+D:\Programming\PangyaStatusSimulator\PangyaStatusSimulator\obj\Debug\PangyaStatusSimulator.Properties.Resources.resources
+D:\Programming\PangyaStatusSimulator\PangyaStatusSimulator\obj\Debug\PangyaStatusSimulator.csproj.GenerateResource.cache
+D:\Programming\PangyaStatusSimulator\PangyaStatusSimulator\obj\Debug\PangyaStatusSimulator.exe
+D:\Programming\PangyaStatusSimulator\PangyaStatusSimulator\obj\Debug\PangyaStatusSimulator.pdb
